@@ -1,8 +1,5 @@
 server:
   port: 5000
-spring:
-  application:
-    name: MANAGE-DEPARTMENT
 eureka:
   client:
     register-with-eureka: true
